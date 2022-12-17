@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "fabio",
+        "cpf": "14245687611",
+        "email": "teste@teste.com",
+        "whatsapp": "11983838383",
+        "address": {
+            "postalcode": "02552040",
+            "street": "Rua Elias Gannam",
+            "number": "561",
+            "details": "b",
+            "district": "Vila Bandeirantes",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh teste.png"
+    },
+    "cpf_inv": {
+        "name": "Pereira",
+        "cpf": "142456876AA",
+        "email": "novotx@teste.com",
+        "whatsapp": "11983838383",
+        "address": {
+            "postalcode": "02552040",
+            "street": "Rua Elias Gannam",
+            "number": "561",
+            "details": "b",
+            "district": "Vila Bandeirantes",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh teste.png"
+    },
+    "email_inv": {
+        "name": "fabio",
+        "cpf": "14245687611",
+        "email": "teste.com.br",
+        "whatsapp": "11983838383",
+        "address": {
+            "postalcode": "02552040",
+            "street": "Rua Elias Gannam",
+            "number": "561",
+            "details": "b",
+            "district": "Vila Bandeirantes",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh teste.png"
+    }
+}
